@@ -1,0 +1,30 @@
+body{
+	font-size: 1rem;
+}
+header .container{
+	display: flex;
+}
+header .container h3{
+	margin-right: 50px;
+}
+.hero .container{
+	display: block;
+	text-align: center;
+}
+.punchLine{
+	display: block;
+	padding: 1rem;
+}
+.three_blocks .container{
+	display: block;
+	margin-right: 1rem;
+}
+.three_blocks .container .items{
+	margin-bottom: 1rem;
+}
+.title .container{
+	display: block;
+}
+.title h3{
+    margin-left:20px;
+}
